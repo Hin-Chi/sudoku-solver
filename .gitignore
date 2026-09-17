@@ -1,0 +1,19 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+out/
+
+# Installation logs
+InstallationLog.txt
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
